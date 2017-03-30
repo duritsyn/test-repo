@@ -1,2 +1,2 @@
 alert(`Hello world`);
-//dev
+//dev feature moved to a file
